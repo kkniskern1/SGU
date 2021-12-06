@@ -1,0 +1,21 @@
+
+
+<head>
+<meta charset="UTF-8" content="text/css">
+<style>
+
+.ticket-amount {
+display: none;
+}
+
+.badge.limited-quantity {
+display: none;
+}
+
+.total-amount {
+display: none;
+}
+
+
+</style>
+</head>
